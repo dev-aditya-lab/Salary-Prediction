@@ -42,9 +42,22 @@ In many industries, salary estimation is important for both employers and employ
 
 ---
 
+## 🔧 Tools Required
+
+* Python
+* pandas, numpy, matplotlib, scikit-learn
+* Streamlit
+
+```bash
+pip install pandas numpy matplotlib scikit-learn streamlit
+```
+
+---
+
 ## 📂 Dataset Description:
 
-* **File Name:** `salary_data.csv`
+* **File Name:** `salary_data.csv` 
+* **Source:** Kaggle 
 * **Columns:**
 
     * `YearsExperience` (float): Number of years of work experience
@@ -147,11 +160,15 @@ predicted_salary = model.predict([[experience]])
 
 ---
 
-## 📌 Future Scope:
+## ▶️ Run the App
 
-* Add **education level**, **skills**, or **job location** for multi-variable predictions
-* Improve dataset size for better accuracy
-* Host app online using **Streamlit Cloud**, **Render**, or **Heroku**
+In terminal:
+
+```bash
+streamlit run app.py
+```
+
+It will open in browser with slider input, prediction, and graph.
 
 ---
 
