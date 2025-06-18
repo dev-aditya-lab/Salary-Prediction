@@ -136,6 +136,8 @@ predicted_salary = model.predict([[experience]])
 * **Output:** Predicted salary shown dynamically
 * **Graph:** Shows:
 
+    ![alt text](image.png)
+    
     * Blue dots = original data
     * Red line = regression line
     * Green point = your selected experience
