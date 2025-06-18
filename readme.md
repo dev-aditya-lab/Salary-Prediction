@@ -137,6 +137,7 @@ predicted_salary = model.predict([[experience]])
 * **Graph:** Shows:
 
     ![alt text](image.png)
+
     
     * Blue dots = original data
     * Red line = regression line
