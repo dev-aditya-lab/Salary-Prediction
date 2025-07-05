@@ -10,9 +10,16 @@
 
 ## 👨‍🎓 Submitted By:
 
-**Aditya Kumar Gupta**
-**B.Tech – Computer Science Engineering (2nd Year)**
-**Institute: REC**
+
+
+|S.no.| Name | Roll no | Course/Branch | Institute/College Name |
+|------|------|--------|-----------|-----------|
+|1|**ADITYA KUMAR GUPTA** | 23033445002 | B.Tech – Computer Science Engineering (2nd Year) | Ramgarh Engineering College, Ramgarh |
+|2|**KUMARI NEHA** | 23033445018 | B.Tech – Computer Science Engineering (2nd Year) | Ramgarh Engineering College, Ramgarh |
+|3|**PUNITA SINGH** | 23033445033 | B.Tech – Computer Science Engineering (2nd Year) | Ramgarh Engineering College, Ramgarh |
+|4|**SNEHA KUMARI** | 23033445047 | B.Tech – Computer Science Engineering (2nd Year) | Ramgarh Engineering College, Ramgarh |
+|5|**AJIT KUMAR SINGH** | 23033445003 | B.Tech – Computer Science Engineering (2nd Year) | Ramgarh Engineering College, Ramgarh |
+
 
 ---
 
